@@ -19,5 +19,3 @@ To facilitate the review process, all relevant materials have been made publicly
   
 - **`Supplementary_Materials_with_Color.pdf`**  
   The marked-up version of the supplementary material, in which the changes made during the current revision round are highlighted in red font.
-
-The condensed manuscript is the formal version submitted for review, whereas the full manuscript and supplementary material are provided to facilitate a more complete assessment of the theoretical derivations and experimental validation.
