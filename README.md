@@ -1,2 +1,2 @@
 # HPLGMM-VIO
-HPLGMM-VIO
+For the reviewers’ convenience, this repository provides three PDF files: the revised manuscript prepared under the journal page limit, the corresponding supplementary material containing the additional theoretical proofs and experimental validations removed from the main manuscript, and a consolidated full version integrating both documents for continuous reading. The revised manuscript and supplementary material should be regarded as the formal submission, while the full version is provided only as a convenient reference.
