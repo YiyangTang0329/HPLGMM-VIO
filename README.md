@@ -20,5 +20,5 @@ To facilitate the review process, all relevant materials have been made publicly
 - **`Supplementary_Materials_with_Color.pdf`**  
   The marked-up version of the supplementary material, in which the changes made during the current revision round are highlighted in red font.
 
-- **`Detailed_Response.pdf`**
+- **`Detailed_Response.pdf`**  
   A complete response letter providing detailed point-by-point responses to all comments raised by the Associate Editor and the reviewers.
